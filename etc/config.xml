@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+	<default>
+		<dimache_shipping_message>
+			<general>
+				<active>0</active>
+				<message><![CDATA[Please note additional duties and taxes may be payable in your country.]]></message>
+				<allowspecific>1</allowspecific>
+				<specificcountry><![CDATA[CA,AU,AT,BE,BG,CY,CZ,DK,EE,FI,FR,DE,GR,HR,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE]]></specificcountry>
+			</general>
+		</dimache_shipping_message>
+	</default>
+</config>

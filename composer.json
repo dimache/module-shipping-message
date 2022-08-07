@@ -1,0 +1,30 @@
+{
+    "name": "dimache/module-shipping-message",
+    "description": "Checkout Shipping Message",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Cherkashin",
+            "email": "dima.che85@gmail.com"
+        }
+    ],
+    "keywords": [
+        "magento 2",
+        "shipping message",
+        "cehckout",
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "~7.3.0|~7.4.0|~8.1.0"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Dimache\\ShippingMessage\\": ""
+        }
+    }
+}
