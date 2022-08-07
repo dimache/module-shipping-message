@@ -13,7 +13,7 @@
     "keywords": [
         "magento 2",
         "shipping message",
-        "cehckout",
+        "cehckout"
     ],
     "minimum-stability": "dev",
     "require": {
