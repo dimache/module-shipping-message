@@ -1,7 +1,5 @@
 # Magento2 Module Checkout Shipping Message
 
-    ``dimache/module-shipping-message``
-
 - [Main Functionalities](#markdown-header-main-functionalities)
 - [Installation](#markdown-header-installation)
 - [Configuration](#markdown-header-configuration)
